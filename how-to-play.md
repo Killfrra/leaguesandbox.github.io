@@ -10,3 +10,7 @@ or
 
 6. Launch the launcher, register, provide the path to the league executable when asked. It lies in...<br/>
 `...\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy\League of Legends.exe`
+
+> Tip: Don't waste your time waiting in queue, there is a 99% chance you won't find a match. You better create a custom game.
+
+> Note: Many champions don't work properly. Here is the [list](https://discord.com/channels/472169314913353730/845275867600257025/854461377770029086). Try Ezreal.
